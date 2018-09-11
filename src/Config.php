@@ -8,9 +8,9 @@ Class Config {
    
   static $facebookCredentials = [
 
-    'verifyToken' => 'coinmentor',
+    'verifyToken' => 'example',
 
-    'accessToken' => 'EAAUfTVwnitUBAJxTMzZBJ59ZCAKz9d2QFuzX8sZBAZBcJlCtFdMh5Xb7YiEj9BL7pYiNvKdl0LtRwLqAZCfYdd30Bwg0x6oETk2ldqKgFzpSnQYndx9boB6Jlmgp2cYZCvnNwJAjRVpDahCIWrbLLbZCgGDZAcbAQQghyHu1PZCDeSSbDABiT10Oo'
+    'accessToken' => 'EAAP4tgvAakcBAHH8hAEvk7KWbIhpCnSxKROtQ6h1lO9VA16q9RehMtKvf3ugvF4piDQTxpiaqrabPCnCdMolGPYf4b1sH55J1D52IxPnNTf5sU3DQTkjC1ZC694MSp6wwcG150DLHUulVdVuBv0K9f4lvuQmEW7OkbgletgZDZD'
 
   ];
 

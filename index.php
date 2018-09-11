@@ -12,9 +12,9 @@ require 'cloudinary/Api.php';
 
 $verifyBot = new VerifyBot();
 \Cloudinary::config(array( 
-  "cloud_name" => "ndubuisi", 
-  "api_key" => "322598253189364", 
-  "api_secret" => "QI7-5lFL51RcLSTk3NlFeLcSzo8" 
+  "cloud_name" => "ucosuji", 
+  "api_key" => "351433192855887", 
+  "api_secret" => "YwfoASvkPRr1t-y7IfL_v_09MVA" 
 ));
 
  
